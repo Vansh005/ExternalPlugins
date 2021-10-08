@@ -1,4 +1,4 @@
-# ExternalPlugins
+# ExternalPlugins.in
 [![Discord](https://discordapp.com/api/guilds/597985733403475982/widget.png?style=shield)](https://discordapp.com/invite/gsoft)
 [![GitHub issues](https://img.shields.io/github/issues/Ganom/ExternalPlugins.svg)](https://github.com/Ganom/ExternalPlugins/issues)
 
@@ -11,7 +11,7 @@ Make sure it looks like this picture below.
 
 If you'd like to support what I do, feel free to subscribe to my patreon @https://www.patreon.com/ganom
 
-## Delays
+## Value of Delays
 All delays values below are in milliseconds.
 * __Min__: The absolute minimum delay it can use.
 * __Max__: The absolute maximum delay it can use.
